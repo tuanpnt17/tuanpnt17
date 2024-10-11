@@ -1,4 +1,5 @@
-[![MasterHead](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBxMWtpbHFmbWQ4ZmFoMmFjejNpbzZma3Zxcjk3dTZuNHlzeGF3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G1T5M0qT6ZJlu/giphy.gif)](https://www.tpnt.io.vn)
+<img alt="Banner" width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBxMWtpbHFmbWQ4ZmFoMmFjejNpbzZma3Zxcjk3dTZuNHlzeGF3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G1T5M0qT6ZJlu/giphy.gif"/>
+
 <h1 align="center">Hi 👋, I'm Tuan Pham</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
@@ -9,7 +10,11 @@
 
 - 🔭 I’m currently working on [Ecommerce-shop](https://www.github.com/tuanpnt17/nanishop)
 
-- 🌱 I’m currently learning **Angular, ASP.NET, and Algorithm**
+- 🏢 I create software project using **Angular, ASP.NET and Azure solution**
+
+- 🌱 I’m currently learning **Algorithm and System Design**
+
+- 👯 In my free time **I enjoy reading books, listening to rap music and practicing Stoicism**
 
 - 👨‍💻 All of my projects are available at [https://www.tpnt.io.vn/projects](https://www.tpnt.io.vn/projects)
 
