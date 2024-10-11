@@ -16,18 +16,17 @@
 
 - 👯 In my free time **I enjoy reading books, listening to rap music and practicing Stoicism**
 
-- 👨‍💻 All of my projects are available at [tpnt.io/projects](https://www.tpnt.io.vn/projects)
+- 👨‍💻 All of my projects are available at [tpnt.io.vn/projects](https://www.tpnt.io.vn/projects)
 
 - 📫 How to reach me **tuanpnt17@gmail.com**
 
-- 📄 Know about my experiences [https://www.tpnt.io.vn/resume](https://www.tpnt.io.vn/resume)
+- 📄 Know about my experiences [tpnt.io.vn/resume](https://www.tpnt.io.vn/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" width="100%">
 <a href="https://linkedin.com/in/tuanpnt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanpnt17" height="30" width="40" /></a>
 <a href="https://twitter.com/tuanpnt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuanpnt17" height="30" width="40" /></a>
 <a href="https://zalo.me/0367304351" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/1200px-Icon_of_Zalo.svg.png" alt="tuanpnt17" height="30" width="30" /></a>
-</p>
 <a href="https://fb.com/tuanpnt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanpnt17" height="30" width="40" /></a>
 </p>
 
