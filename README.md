@@ -2,6 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Tuan Pham</h1>
 <h3 align="center">A passionate backend developer from Vietnam</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanpnt17&label=Profile%20views&color=0e75b6&style=flat" alt="tuanpnt17" /> </p>
 
@@ -15,7 +16,7 @@
 
 - 👯 In my free time **I enjoy reading books, listening to rap music and practicing Stoicism**
 
-- 👨‍💻 All of my projects are available at [https://www.tpnt.io.vn/projects](https://www.tpnt.io.vn/projects)
+- 👨‍💻 All of my projects are available at [tpnt.io/projects](https://www.tpnt.io.vn/projects)
 
 - 📫 How to reach me **tuanpnt17@gmail.com**
 
@@ -25,7 +26,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tuanpnt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanpnt17" height="30" width="40" /></a>
 <a href="https://twitter.com/tuanpnt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuanpnt17" height="30" width="40" /></a>
-<a href="https://zalo.me/0367304351" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/1200px-Icon_of_Zalo.svg.png" alt="tuanpnt17" height="30" width="40" /></a>
+<a href="https://zalo.me/0367304351" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/1200px-Icon_of_Zalo.svg.png" alt="tuanpnt17" height="30" width="30" /></a>
 </p>
 <a href="https://fb.com/tuanpnt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tuanpnt17" height="30" width="40" /></a>
 </p>
