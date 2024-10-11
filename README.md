@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tuanpnt17" target="blank"><img src="https://img.shields.io/twitter/follow/tuanpnt17?logo=twitter&style=for-the-badge" alt="tuanpnt17" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce-shop](https://www.github.com/tuanpnt17/nanishop)
+- 🔭 I’m currently working on [Ecommerce-shop](https://www.github.com/tuanpnt17/nanishop) (Personal project)
 
 - 🏢 I create software project using **Angular, ASP.NET and Azure solution**
 
@@ -23,7 +23,7 @@
 - 📄 Know about my experiences [https://www.tpnt.io.vn/resume](https://www.tpnt.io.vn/resume)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" width="100%">
 <a href="https://linkedin.com/in/tuanpnt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tuanpnt17" height="30" width="40" /></a>
 <a href="https://twitter.com/tuanpnt17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tuanpnt17" height="30" width="40" /></a>
 <a href="https://zalo.me/0367304351" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Icon_of_Zalo.svg/1200px-Icon_of_Zalo.svg.png" alt="tuanpnt17" height="30" width="30" /></a>
