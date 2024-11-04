@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/tuanpnt17" target="blank"><img src="https://img.shields.io/twitter/follow/tuanpnt17?logo=twitter&style=for-the-badge" alt="tuanpnt17" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce-shop](https://www.github.com/tuanpnt17/nanishop) (Personal project)
+- 🔭 I’m currently working on [Ecommerce-shop](https://www.github.com/tuanpnt17/nanishop) (Personal projects)
 
 - 🏢 I create software project using **Angular, ASP.NET and Azure solution**
 
