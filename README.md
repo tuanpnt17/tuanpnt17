@@ -1,26 +1,22 @@
 <img alt="Banner" width="100%" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBxMWtpbHFmbWQ4ZmFoMmFjejNpbzZma3Zxcjk3dTZuNHlzeGF3bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/G1T5M0qT6ZJlu/giphy.gif"/>
 
 <h1 align="center">Hi 👋, I'm Tuan Pham</h1>
-<h3 align="center">A passionate backend developer from Vietnam</h3>
+<h3 align="center">A passionate software developer from Vietnam</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tuanpnt17&label=Profile%20views&color=0e75b6&style=flat" alt="tuanpnt17" /> </p>
 
 <p align="left"> <a href="https://twitter.com/tuanpnt17" target="blank"><img src="https://img.shields.io/twitter/follow/tuanpnt17?logo=twitter&style=for-the-badge" alt="tuanpnt17" /></a> </p>
 
-- 🔭 I’m currently working on [Ecommerce-shop](https://www.github.com/tuanpnt17/nanishop) (Personal project)
+- 🔭 I’m currently working on [KUMO Classroom Project](https://www.github.com/tuanpnt17/kumo-classroom) (entrepreneurship project)
 
-- 🏢 I create software project using **Angular, ASP.NET and Azure solution**
+- 🏢 I usually create software project using **ASP.NET and Azure solution**. But now I'm interested in createing backend project with **Golang**
 
 - 🌱 I’m currently learning **Algorithm and System Design**
 
 - 👯 In my free time **I enjoy reading books, listening to rap music and practicing Stoicism**
 
-- 👨‍💻 All of my projects are available at [tpnt.io.vn/projects](https://www.tpnt.io.vn/projects)
-
 - 📫 How to reach me **tuanpnt17@gmail.com**
-
-- 📄 Know about my experiences [tpnt.io.vn/resume](https://www.tpnt.io.vn/resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" width="100%">
